@@ -81,9 +81,7 @@ const Index = () => {
             <h2 className="text-5xl md:text-6xl font-bold text-foreground mb-6">
               Услуги
             </h2>
-            <p className="text-xl text-muted-foreground max-w-2xl mx-auto font-light">
-              Комплексный подход к созданию цифровых продуктов
-            </p>
+            <p className="text-xl text-muted-foreground max-w-2xl mx-auto font-light">Telegram как канал продаж: настраиваем, тестируем, масштабируем</p>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
