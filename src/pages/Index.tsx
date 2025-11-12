@@ -60,11 +60,7 @@ const Index = () => {
     <div className="min-h-screen bg-background">
       <section className="min-h-screen flex items-center justify-center px-6 py-20">
         <div className="max-w-5xl mx-auto text-center space-y-8">
-          <h1 className="text-6xl md:text-7xl lg:text-8xl font-bold text-foreground tracking-tight animate-fade-in">
-            Создаю цифровые
-            <br />
-            <span className="text-accent">продукты</span>
-          </h1>
+          <h1 className="text-6xl md:text-7xl lg:text-8xl font-bold text-foreground tracking-tight animate-fade-in">Telegram ads</h1>
           <p className="text-xl md:text-2xl text-muted-foreground max-w-2xl mx-auto animate-fade-in-up font-light">
             Минималистичный дизайн, который работает на ваш бизнес
           </p>
